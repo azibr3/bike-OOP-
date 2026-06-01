@@ -9,8 +9,8 @@ Convert procedural Python code into Object-Oriented Programming (OOP).
 - Encapsulation (private attributes and getters)
 
 ## File Structure
-- `bike_procedural.py` — original procedural version
-- `bike_oop.py` — refactored OOP version
+- `bike(procedural).py` — original procedural version
+- `bike(OOP).py` — refactored OOP version
 
 ## What I Learned
 - How to identify a class from procedural code
