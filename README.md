@@ -1,19 +1,15 @@
-# Bike OOP Project
+# Bike Inventory — OOP
 
-## Project Goal
-Convert procedural Python code into Object-Oriented Programming (OOP).
+A Python project where I converted procedural code into Object-Oriented Programming, completed as part of the Satr Python Track.
 
-## Concepts Covered
-- Classes and Objects
-- Attributes and Methods
-- Encapsulation (private attributes and getters)
+## What I practiced
+- Defining classes and creating objects
+- Using `__init__` to replace "create" functions
+- Converting standalone functions into methods
+- Encapsulation with private attributes and getters
 
-## File Structure
-- `bike(procedural).py` — original procedural version
-- `bike(OOP).py` — refactored OOP version
+## Tools
+- Python
 
-## What I Learned
-- How to identify a class from procedural code
-- How __init__ replaces a "create" function
-- How methods replace standalone functions
-- How encapsulation protects data using __ and getters
+## About
+This project is part of the Satr Python Track.
